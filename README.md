@@ -16,7 +16,7 @@ Este planejamento não é nenhum projeto profissional. Sou o Matheus e comecei e
 
 * 🔄 Confirmação da consulta: email enviado ao paciente dizendo que a consulta foi agendada com sucesso;
 
-* 🖱️ Caso de cancelamento: uma mensagem é enviada para o paciente sobre confirmação daquela consulta; se caso cancelado o horário volta a disponibilidade padrão.
+* 🖱️ Caso de cancelamento: uma mensagem é enviada para o paciente sobre confirmação daquela consulta antecipadamente; se caso cancelado o horário volta a disponibilidade padrão.
 
 * 🔒 Segurança: criptografia para proteção de informações dos pacientes e usuários.
 
